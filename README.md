@@ -1,5 +1,7 @@
 # 💫 About Me:
-* Generalist engineer interested in high-performance computing, compilers and interpreters, web backend, and low-level systems.<br>* Prefer C++ and Go for high-throughput, performance-critical workloads.<br>* Interested in systems where correctness, latency, and efficiency are non-negotiable.
+* Generalist engineer interested in high-performance computing, compilers and interpreters, web backend, and low-level systems.
+* Prefer C++ and Go for high-throughput, performance-critical workloads.
+* Interested in systems where correctness, latency, and efficiency are non-negotiable.
 
 
 ## 🌐 Socials:
